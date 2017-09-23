@@ -2,4 +2,4 @@
 layout: page
 title: About
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-01-01-Welcome-to-Lagrange %}).
+我是一个很有追求的人，乐观向上，喜欢学习别人的优点，为人正直，禽兽，对朋友很讲义气.
