@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing
+title: 文章OR点评
 ---
 <ul class="posts">
   {% for post in site.posts %}
