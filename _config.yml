@@ -9,8 +9,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed]
 
 # Customise feed settings (uncommenting following two fields to customise feed title and description)
-#title:		     "Lagrange-Custom"
-#description:	     "a minimalist Jekyll theme-Custom"
+#title:		     "禽兽天堂"
+#description:	     "一个禽兽集聚的俱乐部"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
