@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: 联系我
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+如果你有什么问题或者建议可以联系我, 我的邮箱god@allout.cn, or [用GitHub](https://github.com/lenpaul/lagrange/issues/new)
