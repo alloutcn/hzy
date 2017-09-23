@@ -1,5 +1,5 @@
-title:  Lagrange
-tagline:  a minimalist Jekyll theme
+title:  轨迹
+tagline:  一个禽兽的空间，看域名就了解了，哈哈
 
 # Authors documented under _data
 
@@ -11,9 +11,9 @@ disqus:
 google-ID: 'UA-80213386-1'
 
 menu:
-- {name: 'About', url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: '关于作者', url: 'about.html'}
+- {name: '平轮', url: 'writing.html'}
+- {name: '联系', url: 'contact.html'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/lenpaul'}
